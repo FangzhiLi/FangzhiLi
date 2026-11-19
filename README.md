@@ -29,4 +29,4 @@ I study **post-training and reinforcement learning for LLM agents that interact 
 
 ### 🙂 Outside the lab
 
-- I'm a 100% dog lover. I have a Maltipoo puppy named [Bagel](https://github.com/FangzhiLi/FangzhiLi/blob/main/bagel.md) 🐶
+- I'm a 100% dog lover. I have a Maltipoo puppy named [Bagel](FangzhiLi/bagel.md) 🐶
